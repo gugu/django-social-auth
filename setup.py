@@ -56,4 +56,5 @@ setup(name='django-social-auth',
                    'Programming Language :: Python :: 2.5',
                    'Programming Language :: Python :: 2.6',
                    'Programming Language :: Python :: 2.7'],
+      use_2to3 = True,
       zip_safe=False)
